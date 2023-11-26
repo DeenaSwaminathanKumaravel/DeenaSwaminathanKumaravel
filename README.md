@@ -19,3 +19,5 @@ Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Po
 
 
 📂 Project Portofolio
+
+[Linked In - ](https://www.linkedin.com/in/deena-swaminathan-k-0893179a/)
