@@ -17,10 +17,3 @@ Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Po
 
 
 📂 Project Portofolio
-
-
-
-
-
-
-
