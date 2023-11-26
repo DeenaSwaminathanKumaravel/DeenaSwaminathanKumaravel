@@ -17,7 +17,7 @@ Exploratory Data Analysis, Data wrangling, Statistical Analysis, Data Visualizat
 
 Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Power BI, Alteryx, Figma and VBA
 
-
+<!--
 📂 Project Portofolio
 
-[Linked In](https://www.linkedin.com/in/deena-swaminathan-k-0893179a/)
+[Linked In](https://www.linkedin.com/in/deena-swaminathan-k-0893179a/) --!>
