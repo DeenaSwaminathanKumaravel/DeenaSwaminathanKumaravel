@@ -9,10 +9,12 @@ I'm Deena Swaminathan K! I'm aspiring to become a Data Scientist, I’m currentl
 
 
 ✅ Competencies
+
 Exploratory Data Analysis, Data wrangling, Statistical Analysis, Data Visualization, Machine Learning, Business Intelligence, Six Sigma, UI/UX Design, ETL
 
 
-💻 Tech Stack
+💻 Technical tools
+
 Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Power BI, Alteryx, Figma and VBA
 
 
