@@ -16,7 +16,7 @@ Exploratory Data Analysis, Data wrangling, Statistical Analysis, Data Visualizat
 
 💻 Technical tools
 
-Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Power BI, Alteryx, Figma and VBA
+Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Power BI, Alteryx, Power Apps, Power Automate, Figma and VBA
 
 <!--
 📂 Project Portofolio
