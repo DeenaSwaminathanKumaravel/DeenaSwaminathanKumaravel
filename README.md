@@ -21,7 +21,7 @@ Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Po
 <!--
 📂 Project Portofolio
 
---!>
+-->
 📂 Certifications
 
 PL-300 - https://www.credly.com/badges/60c7cead-cb96-4b3e-bb55-225a55999c24/public_url
