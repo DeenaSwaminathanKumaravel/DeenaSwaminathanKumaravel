@@ -18,10 +18,10 @@ Exploratory Data Analysis, Data wrangling, Statistical Analysis, Data Visualizat
 
 Azure, Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau Prep, Power BI, Alteryx, Power Apps, Power Automate, Figma and VBA
 
-<!--
+
 📂 Project Portofolio
 
-
+<!--
 📂 Certifications
 
 PL-300 - https://www.credly.com/badges/60c7cead-cb96-4b3e-bb55-225a55999c24/public_url
