@@ -32,12 +32,3 @@ Azure, Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), Tableau, Tableau P
 PL-300 - https://www.credly.com/badges/60c7cead-cb96-4b3e-bb55-225a55999c24/public_url
 
 -->
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpesh-projects&show_icons=true&locale=en&layout=compact" alt="kalpesh-projects" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpesh-projects&show_icons=true&locale=en" alt="kalpesh-projects" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh-projects&" alt="kalpesh-projects" /></p>
