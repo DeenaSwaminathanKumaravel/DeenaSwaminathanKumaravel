@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me **dheenakumar107@gmail.com**
 
-📄 Know about my experiences [Resume]()
+📄 Know about my experiences [Resume](Deena Swaminathan K Resume.pdf)
 
 ✅ Competencies
 
