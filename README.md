@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me **dheenakumar107@gmail.com**
 
-📄 Know about my experiences [Resume]([https://github.com/DeenaSwaminathanKumaravel/SQL-Data-Analysis-and-Visualization-projects/blob/bd5cb2cfc607d41affbcde5b76680c6a6e6aaec9/Deena%20Swaminathan%20K%20Resume.pdf])(https://github.com/DeenaSwaminathanKumaravel/SQL-Data-Analysis-and-Visualization-projects/blob/2c3bbd01d9fd2de2cd5933eef8466943beaddf83/Deena_Swaminathan_K_Resume.pdf)
+📄 Know about my experiences [Resume]([https://github.com/DeenaSwaminathanKumaravel/SQL-Data-Analysis-and-Visualization-projects/blob/bd5cb2cfc607d41affbcde5b76680c6a6e6aaec9/Deena%20Swaminathan%20K%20Resume.pdf])
 
 ✅ Competencies
 
