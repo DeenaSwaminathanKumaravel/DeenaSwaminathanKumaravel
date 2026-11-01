@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-📝 I'm Deena Swaminathan K! I'm aspiring to become a Data Scientist, I’m currently working as Senior Bus & Technology Delivery Analyst in Accenture. I am currently learning Azure Machine Learning and skilled in the areas of Business Intelligence and Data Analytics.
+📝 Hi
 
 📫 How to reach me **dheenakumar107@gmail.com**
 
